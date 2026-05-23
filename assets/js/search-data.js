@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pearl-pre-training-enhanced-aspect-representation-learning-paper-submitted-to-aaai-2026",
+            },},{id: "news-awarded-the-zhejiang-provincial-scholarship",
+          title: 'Awarded the Zhejiang Provincial Scholarship.',
+          description: "",
+          section: "News",},{id: "news-pearl-pre-training-enhanced-aspect-representation-learning-paper-submitted-to-aaai-2026",
           title: 'PEARL: Pre-training Enhanced Aspect Representation Learning paper submitted to AAAI 2026.',
           description: "",
           section: "News",},{id: "news-awarded-the-chu-kochen-honors-college-scholarship",
