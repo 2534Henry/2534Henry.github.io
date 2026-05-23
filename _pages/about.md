@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>zihao.wang@zju.edu.cn</p>
-    <p>Chu Kochen Honors College</p>
+    <p>psychwangzihao@zju.edu.cn</p>
+    <p>Qiushi Honor's Program</p>
     <p>Zhejiang University</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -25,16 +25,16 @@ latest_posts:
   enabled: false
 ---
 
-**Welcome!** I am Zihao Wang (王梓豪), an undergraduate student at Zhejiang University.
+**Welcome!** I am Zihao Wang, an undergraduate student at Zhejiang University.
 
-I am a B.E. candidate in **Computer Science and Technology** at the **Chu Kochen Honors College** of Zhejiang University (expected June 2027), with a GPA of 3.89/4.00 (Top 15% in CS).
+I am a **B.Sc. candidate in Psychology** in the **Qiushi Honor's Program** at Zhejiang University (expected June 2029). I am currently a visiting student in Experimental Psychology at **Pembroke College, University of Oxford** (2026–2027).
 
-My research interests lie in **AI Security & Safety**, with a focus on **RLHF** (Reinforcement Learning from Human Feedback), **LLM Unlearning**, and **Agent Safety**. I am passionate about building safer and more aligned AI systems.
+My research interests lie in **consciousness** (self-model, absence), **mental imagery**, and **aphantasia**. I aim to understand the cognitive and neural mechanisms underlying conscious experience, using approaches from cognitive neuroscience.
 
-Currently, I am working on data selection strategies for aligning LLMs with group preferences via reinforcement learning, advised by Dr. Yu-Ang Zhang.
+Currently, I work as a Research Assistant at **Liangzhu Laboratory, Zhejiang University**, advised by Dr. Dian Lyu, investigating brain plasticity following spinal-cord-stimulation therapy using fMRI.
 
-Previously, I have worked on:
-- **Graph collaborative filtering** using high-order relationships for recommendation systems
-- **Aspect-level rating prediction** via pre-training enhanced representation learning
+I have also completed the **Oxford Prospects Winter Visit (2026)** in Psychology, receiving both the Best Presentation Award and the Best Film Award.
 
-Feel free to check out my <a href='/cv/'>CV</a> and <a href='/publications/'>publications</a>. I'm always open to collaboration and discussion — **feel free to reach out!**
+Previously, I led the **Psychology Outreach Series** at the 2050@2026 Global Youth Gathering, and have been engaged with the **Consciousness Science Reading Group** and the **Interdisciplinary Reading Club of Aphantasia (IRCA)**.
+
+Feel free to check out my <a href='/cv/'>CV</a> for more details. I'm always open to collaboration and discussion — **feel free to reach out!**
