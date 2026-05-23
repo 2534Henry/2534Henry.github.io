@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-completed-the-oxford-prospects-winter-visit-jan-feb-2026-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
+        },{id: "news-completed-the-oxford-prospects-winter-visit-jan-feb-2026-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
           title: 'Completed the Oxford Prospects Winter Visit (Jan–Feb 2026) in Psychology, receiving the Best...',
           description: "",
           section: "News",},{id: "news-won-the-excellent-poster-award-at-the-psychology-honor-s-program-research-exhibition-zhejiang-university",
@@ -44,17 +39,7 @@ ninja.data = [{
           section: "News",},{id: "news-led-the-psychology-outreach-series-at-the-2050-2026-global-youth-gathering-as-lead-organizer-amp-amp-initiator",
           title: 'Led the Psychology Outreach Series at the 2050@2026 Global Youth Gathering as Lead...',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
