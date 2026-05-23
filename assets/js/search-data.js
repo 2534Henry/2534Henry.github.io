@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-liangzhu-laboratory-as-research-assistant-under-joint-mentorship-of-dr-yuzheng-hu-and-dr-dian-lyu",
-          title: 'Joined Liangzhu Laboratory as Research Assistant under joint mentorship of Dr. Yuzheng Hu...',
-          description: "",
-          section: "News",},{id: "news-completed-the-oxford-prospects-winter-visit-jan-feb-2026-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
+            },},{id: "news-completed-the-oxford-prospects-winter-visit-jan-feb-2026-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
           title: 'Completed the Oxford Prospects Winter Visit (Jan–Feb 2026) in Psychology, receiving the Best...',
           description: "",
           section: "News",},{id: "news-won-the-excellent-poster-award-at-the-psychology-honor-s-program-research-exhibition-zhejiang-university",
