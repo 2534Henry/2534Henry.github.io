@@ -53,14 +53,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_WangZihao_ZJU.docx", "_blank");
+          window.open("/assets/pdf/CV_WangZihao_ZJU.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%70%73%79%63%68%77%61%6E%67%7A%69%68%61%6F@%7A%6A%75.%65%64%75.%63%6E", "_blank");
+          window.open("mailto:%7A%69%68%61%6F.%77%61%6E%67@%7A%6A%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-rss',
