@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "teachings-data-science-fundamentals",
+            },},{id: "news-pearl-pre-training-enhanced-aspect-representation-learning-paper-submitted-to-aaai-2026",
+          title: 'PEARL: Pre-training Enhanced Aspect Representation Learning paper submitted to AAAI 2026.',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
