@@ -35,10 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-liangzhu-laboratory-as-research-assistant-working-on-brain-plasticity-after-spinal-cord-stimulation-therapy-advisor-dr-dian-lyu",
-          title: 'Joined Liangzhu Laboratory as Research Assistant, working on brain plasticity after spinal-cord-stimulation therapy...',
-          description: "",
-          section: "News",},{id: "news-completed-the-oxford-prospects-winter-visit-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
+            },},{id: "news-completed-the-oxford-prospects-winter-visit-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
           title: 'Completed the Oxford Prospects Winter Visit in Psychology, receiving the Best Presentation Award...',
           description: "",
           section: "News",},{id: "news-won-the-excellent-poster-award-at-the-psychology-honor-s-program-research-exhibition-zhejiang-university",
