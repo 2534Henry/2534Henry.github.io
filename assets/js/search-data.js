@@ -35,7 +35,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-personal-academic-homepage-is-now-live",
+            },},{id: "news-completed-the-oxford-prospects-winter-visit-in-psychology-receiving-the-best-presentation-award-and-best-film-award",
+          title: 'Completed the Oxford Prospects Winter Visit in Psychology, receiving the Best Presentation Award...',
+          description: "",
+          section: "News",},{id: "news-won-the-excellent-poster-award-at-the-psychology-honor-s-program-research-exhibition-zhejiang-university",
+          title: 'Won the Excellent Poster Award at the Psychology (Honor’s Program) Research Exhibition, Zhejiang...',
+          description: "",
+          section: "News",},{id: "news-personal-academic-homepage-is-now-live",
           title: 'Personal academic homepage is now live!',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
